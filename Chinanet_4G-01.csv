@@ -1,0 +1,9 @@
+
+BSSID, First time seen, Last time seen, channel, Speed, Privacy, Cipher, Authentication, Power, # beacons, # IV, LAN IP, ID-length, ESSID, Key
+9C:3D:CF:00:65:E4, 2021-07-08 01:23:57, 2021-07-08 01:28:54,  4, 195, WPA2, CCMP, PSK, -70,       65,      109,   0.  0.  0.  0,  11, Chinanet-4G, 
+
+Station MAC, First time seen, Last time seen, Power, # packets, BSSID, Probed ESSIDs
+DC:33:0D:47:08:AD, 2021-07-08 01:24:12, 2021-07-08 01:28:48, -65,    23155, 9C:3D:CF:00:65:E4,
+78:11:DC:C9:B2:12, 2021-07-08 01:23:57, 2021-07-08 01:28:46, -65,    11298, 9C:3D:CF:00:65:E4,
+9C:9D:7E:AD:7D:94, 2021-07-08 01:24:12, 2021-07-08 01:28:54, -67,     2077, 9C:3D:CF:00:65:E4,
+
